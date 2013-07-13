@@ -1,3 +1,22 @@
-["h1",
- ".navigation"]
+[
+ "h1",
+ ".container .navigation",
+ ".container .heading",
+ ".container .subheading",
+ ".container .pitch",
+ ".container .section1",
+ ".container .section2",
+ ".container .faq",
+ ".container .footer", 
+
+ ".navigation .logo",
+ ".navigation .blank",
+ ".navigation .about",
+
+ ".pitch .video",
+ ".pitch .thermometer",
+ ".pitch .order",
+ ".social"
+ 
+]
 
